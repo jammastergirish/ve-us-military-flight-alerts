@@ -1,1 +1,3 @@
-# ve-us-military-flight-alerts
+# Venezuela–US military flight alerts
+
+`uv run main.py`
